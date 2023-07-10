@@ -11,7 +11,7 @@ I recognize the power vim and in my case, neovim, possesses.  I have a desire to
 
 I try.  In fact, I have an [init.vim](https://github.com/drewgrif/dotfiles/blob/main/.config/nvim/init.vim) file that I use.  I especially love being able to see a colorpreview.  It helps me figure out how I want to configure things like polybar.
 
-![](/images/micro-img-1.png)
+![](/micro-img-1.png)
 
 My current [init.vim](https://github.com/drewgrif/dotfiles/blob/main/.config/nvim/init.vim) can be found in my dotfiles on [github](https://github.com/drewgrif/dotfiles).
 
@@ -35,7 +35,7 @@ micro -plugin install gotham-colors
 micro -plugin install filemanager
 micro -plugin install wc
 ```
-![](../../images/micro-img-2.png)
+![](/micro-img-2.png)
 
 
 Things I love about micro:
