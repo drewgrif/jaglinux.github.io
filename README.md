@@ -1,1 +1,1 @@
-# jaglinux.github.io
+# justaguylinux.github.io
