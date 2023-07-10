@@ -35,7 +35,7 @@ micro -plugin install gotham-colors
 micro -plugin install filemanager
 micro -plugin install wc
 ```
-![](../../assets/micro-img-2.png)
+![](./assets/micro-img-2.png)
 
 
 Things I love about micro:
