@@ -1,4 +1,4 @@
-baseURL = 'https://drewgrif.github.io/justaguylinux.github.io/'
+baseURL = 'https://www.justaguylinux.com/'
 languageCode = 'en-us'
 title = 'JustAGuyLinux'
 theme="hugo-ink"
