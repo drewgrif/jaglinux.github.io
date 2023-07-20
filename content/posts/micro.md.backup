@@ -35,7 +35,7 @@ micro -plugin install gotham-colors
 micro -plugin install filemanager
 micro -plugin install wc
 ```
-![](https://github.com/drewgrif/jaglinux.github.io/blob/main/static/micro-img-2.PNG)
+![](static/micro-img-1.PNG)
 
 
 Things I love about micro:
