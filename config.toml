@@ -44,7 +44,7 @@ url = "https://twitter.com/justaguylinux/"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "/jaglinux.github.io/index.xml"
+url = "https://justaguylinux.com/index.xml"
 
 
 # Main menu Items
